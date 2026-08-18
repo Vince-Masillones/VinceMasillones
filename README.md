@@ -9,6 +9,9 @@ I am a passionate IT student at XU College, driven by a curiosity for technology
 - 💬 Ask me about ...
 - 📫 How to reach me: 20180014371@my.xu.edu.ph
 
+### Fun Fact
+- I can spend hours listening to music while studying.
+
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
 
